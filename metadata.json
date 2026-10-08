@@ -1,0 +1,7 @@
+{
+  "name": "OpportunityOS",
+  "description": "Personal AI opportunity & application agent that maintains a secure user profile, discovers tailored opportunities, prepares verified application materials, and audits submissions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
